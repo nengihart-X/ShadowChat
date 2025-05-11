@@ -1,5 +1,7 @@
 # ShadowChat
 A discreet Discord automation system that uses natural language AI to participate in server conversations as a regular user.
+![eaf56976-cbca-4721-81e1-a92fe05ca800](https://github.com/user-attachments/assets/d714e78c-7396-42b5-9118-8ac2a8d0c44e)
+
 
 ## Overview
 
