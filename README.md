@@ -27,7 +27,7 @@ ShadowChat enables seamless integration of AI conversation capabilities through 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shadowchat.git
+git clone https://github.com/nengihart-X/shadowchat.git
 cd shadowchat
 ```
 
